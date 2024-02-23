@@ -1,5 +1,7 @@
 To Complete the tasks I will be performing an exercise who's steps are given below..
 
+My steps are not exactly same so I have prepared a doc file to show my steps.
+
 # Committing Basics Exercise
 
 1. Create a new folder called `Shopping`
